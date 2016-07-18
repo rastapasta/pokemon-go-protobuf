@@ -11,7 +11,9 @@ npm i --save git+https://github.com/rubvenvereecken/node-pokemongo-protobuf
 ```
 var proto = require('pokemongo-protobuf');
 console.log(proto.info());
-var data = @POGOProtos.parse buffer, "POGOProtos.Networking.Envelopes.ResponseEnvelope"
+
+// get a buffer somewhere
+var data = proto.parse(buffer, "POGOProtos.Networking.Envelopes.ResponseEnvelope");
 
 // Do stuff with data
 ```
