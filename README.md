@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm i --save git+https://github.com/rubenvereecken/node-pokemongo-protobuf.git
+npm i --save git+https://github.com/rastapasta/node-pokemongo-protobuf.git
 ```
 
 ## Usage

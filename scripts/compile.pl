@@ -44,5 +44,6 @@ sub parseDir {
 		print F join($/, @finals);
 		print F $concat;
 	}
+	close(F);
 }
 parseDir("POGOProtos", "pogo");
