@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm i --save git+https://github.com/rubenvereecken/node-pokemongo-protobuf.git
+npm i --save pokemongo-protobuf
 ```
 
 ## Usage
@@ -17,3 +17,5 @@ var data = proto.parse(buffer, "POGOProtos.Networking.Envelopes.ResponseEnvelope
 
 // Do stuff with data
 ```
+
+And: This README deserves more love :)

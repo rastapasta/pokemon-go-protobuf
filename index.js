@@ -1,4 +1,4 @@
 var fs = require('fs');
 var protobuf = require('node-protobuf');
 
-module.exports = new protobuf(fs.readFileSync(__dirname + '/compiled.desc'));
+module.exports = new protobuf(fs.readFileSync(__dirname + '/data/POGOProtos.desc'));
