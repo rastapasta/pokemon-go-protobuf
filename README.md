@@ -20,7 +20,7 @@ var data = proto.parse(buffer, "POGOProtos.Networking.Envelopes.ResponseEnvelope
 // Do stuff with data
 ```
 
-## HowTo recompile the proto definitions
+## Recompile the proto definitions
 
 By now, the [POGOProtos](https://github.com/AeonLucid/POGOProtos) include a compile script.
 Pull the newest revision and compile it with `python compile_single.py -d` to generate a new
