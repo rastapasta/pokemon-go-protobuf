@@ -1,6 +1,7 @@
 # Pokemon Go Protobuf wrapper for Node
 [![npm version](https://badge.fury.io/js/pokemongo-protobuf.svg)](https://badge.fury.io/js/pokemongo-protobuf)
 ![dependencies](https://david-dm.org/rastapasta/pokemon-go-protobuf-node.svg)
+![downloads](https://img.shields.io/npm/dm/pokemongo-protobuf.svg)
 
 This package wraps the `node-protobuf` and the [current](https://github.com/AeonLucid/POGOProtos) Pokemon Go protobuf definitions together in one package.
 
