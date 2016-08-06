@@ -5,6 +5,8 @@
 
 This package wraps the `node-protobuf` and the [current](https://github.com/AeonLucid/POGOProtos) Pokemon Go protobuf definitions together in one package.
 
+Take a look at the [Pokemon Go MITM project](https://github.com/rastapasta/pokemon-go-mitm-node) to see how it can be used.
+
 ## Installation
 
 ```
