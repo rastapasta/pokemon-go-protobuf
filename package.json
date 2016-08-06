@@ -1,6 +1,6 @@
 {
   "name": "pokemongo-protobuf",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Pokemon Go protobuf protocol wrapper for node.js",
   "main": "index.js",
   "scripts": {
