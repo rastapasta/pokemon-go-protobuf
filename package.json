@@ -1,5 +1,5 @@
 {
-  "name": "pogo-protobuf",
+  "name": "pogoprotos",
   "version": "2.10.3",
   "description": "Pokemon Go protobuf protocol wrapper for node.js",
   "main": "index.js",
@@ -13,5 +13,6 @@
     "url": "https://github.com/Furtif/pokemon-go-protobuf-node.git"
   },
   "dependencies": {
+    "node-protobuf": "^1.4.3"
   }
 }
