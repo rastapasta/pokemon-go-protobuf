@@ -1,16 +1,16 @@
 # Pokemon Go POGOProtos wrapper for Node
 [![npm version](https://badge.fury.io/js/pogoprotos.svg)](https://badge.fury.io/js/pogoprotos)
-![dependencies](https://david-dm.org/rastapasta/pokemon-go-protobuf-node.svg)
+![dependencies](https://david-dm.org/furtif/pokemon-go-protobuf-node.svg)
 ![downloads](https://img.shields.io/npm/dm/pogoprotos.svg)
 
-This package wraps the `node-protobuf` and the [current](https://github.com/AeonLucid/POGOProtos) Pokemon Go protobuf definitions together in one package.
+This package wraps the `pogoprotos` and the [current](https://github.com/AeonLucid/POGOProtos) Pokemon Go pogoprotos definitions together in one package.
 
 Take a look at the [Pokemon Go MITM project](https://github.com/rastapasta/pokemon-go-mitm-node) to see how it can be used.
 
 ## Installation
 
 ```
-npm i --save pokemongo-protobuf
+npm i --save pogoprotos
 ```
 
 ## Usage
