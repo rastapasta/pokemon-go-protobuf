@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Furtif/pokemon-go-protobuf-node.git"
+    "url": "https://github.com/Furtif/pokemon-go-protobuf.git"
   },
   "dependencies": {
     "node-protobuf": "^1.4.3"
