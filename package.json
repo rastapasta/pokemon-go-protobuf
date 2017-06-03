@@ -13,6 +13,6 @@
     "url": "https://github.com/rastapasta/pokemon-go-protobuf.git"
   },
   "dependencies": {
-   
+    "node-protobuf": "^1.4.3"
   }
 }
