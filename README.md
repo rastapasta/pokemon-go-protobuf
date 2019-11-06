@@ -1,5 +1,5 @@
 # Pokemon Go Protobuf wrapper for Node
-[![npm version](https://badge.fury.io/js/pokemongo-protobuf.svg)](https://badge.fury.io/js/pokemongo-protobuf)
+[![npm version](https://badge.fury.io/js/pokemongo-protobuf.svg)](https://badge.fury.io/js/pokemongo-protobuf) [![Greenkeeper badge](https://badges.greenkeeper.io/rastapasta/pokemon-go-protobuf.svg)](https://greenkeeper.io/)
 ![dependencies](https://david-dm.org/rastapasta/pokemon-go-protobuf-node.svg)
 ![downloads](https://img.shields.io/npm/dm/pokemongo-protobuf.svg)
 
